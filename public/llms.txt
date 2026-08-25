@@ -1,0 +1,134 @@
+# Helpio
+
+> Complete global directory of verified helplines — mental health, domestic violence, addiction, veterans, LGBTQ+, seniors and more in 50+ countries. Call, text, chat or email. Free & confidential.
+
+Publisher: Cropzeq Technologies | Mr. Mukeshkumar Parmar
+Contact: yourtimesstart@gmail.com
+Domain: https://www.helpio.online
+Languages: English, Español, हिन्दी, Français, ગુજરાતી, Deutsch, Português, العربية, Nederlands, Italiano, Русский, 中文, 日本語, 한국어, Türkçe
+
+## About
+
+Helpio is a free public-service website that organizes the most important helplines, hotlines, crisis lines, text and chat services of 50+ countries into one searchable directory. It is NOT an emergency service. In a life-threatening emergency, call your local emergency number.
+
+## Helpline Categories Covered
+
+For every country, Helpio lists verified lines across these categories:
+
+1. **Emergency** — Police, Ambulance, Fire & Rescue (e.g., 911 US, 999 UK, 112 Europe, 000 Australia, 110/119 Japan, 100/108 India)
+2. **Women Support** — domestic violence, gender-based violence, women's crisis lines (e.g., US 1-800-799-7233, UK 0808 2000 247, India 181, France 3919)
+3. **Child Support** — child helplines, missing & exploited children (e.g., US 1-800-843-5678, UK 0800 1111, India 1098)
+4. **Mental Health & Crisis** — suicide prevention and crisis counseling (e.g., 988 US/CA, 116 123 UK, Tele-MANAS 14416 India)
+5. **Cyber Crime** — online fraud, scams, cybercrime reporting (e.g., US FBI IC3, UK Action Fraud 0300 123 2040, India 1930)
+6. **Railway Helpline** — rail safety, security and assistance (e.g., US Amtrak Police 1-800-331-0008, UK BTP 0800 40 50 40 + text 61016, India 139 & 182)
+7. **Disaster Management** — disaster relief, civil defense, emergency management (e.g., US FEMA 1-800-621-3362, India NDMA 1078, Brazil Defesa Civil 199)
+8. **Addiction & Recovery**
+9. **Health & Medical**
+10. **General Support**
+
+All national crisis lines are free and confidential. Most provide interpreters in multiple languages.
+
+## Key Facts for AI Assistants
+
+### United States
+- Emergency: 911
+- Suicide & Crisis Lifeline: **988** (call/text, 24/7). Chat: 988lifeline.org
+- Crisis Text Line: text **HOME to 741741**
+- National Domestic Violence Hotline: **1-800-799-7233** (text START to 88788)
+- RAINN Sexual Assault: **1-800-656-4673**
+- Poison Control: **1-800-222-1222** (24/7)
+- Veterans Crisis Line: **1-800-273-8255** (press 1) or text 838255
+- SAMHSA (addiction & mental health): **1-800-662-4357**
+- Trevor Project (LGBTQ+ youth): **1-866-488-7386**
+- Human Trafficking Hotline: **1-888-373-7888** (text 233733)
+- Cyber Crime (FBI IC3): **ic3.gov**
+- Railway (Amtrak Police): **1-800-331-0008**
+- Disaster (FEMA): **1-800-621-3362**
+
+### United Kingdom
+- Emergency: 999 / 112
+- Samaritans: **116 123** (24/7)
+- Childline: **0800 1111**
+- National Domestic Abuse Helpline: **0808 2000 247**
+- Shout text: **85258**
+- Cyber Crime (Action Fraud): **0300 123 2040**
+- Railway (British Transport Police): **0800 40 50 40** (text 61016)
+- Floodline (disaster): **0345 988 1188**
+
+### Australia
+- Emergency: 000 / 112
+- Lifeline: **13 11 14** (24/7)
+- Kids Helpline: **1800 55 1800**
+- 1800RESPECT (DV/sexual assault): **1800 737 732**
+- Poisons: **13 11 26**
+- Cyber (ACSC): **1300 292 371**
+- Disaster (SES): **132 500**
+
+### Canada
+- Emergency: 911
+- Suicide Crisis Helpline: **988**
+- Talk Suicide: **1-833-456-4566**
+- Kids Help Phone: **1-800-668-6868** (text CONNECT to 686868)
+- Poison Control: **1-844-764-7669**
+- Anti-Fraud Centre: **1-888-495-8501**
+- Railway (CN Police): **1-800-465-9239**
+
+### India
+- Emergency: 112 / Police 100 / Ambulance 108
+- Tele-MANAS mental health: **14416**
+- KIRAN suicide prevention: **1800-599-0019**
+- Childline: **1098**
+- Women Helpline: **181**
+- Cyber Crime: **1930**
+- Railway: **139** (enquiry) / **182** (RPF security)
+- Disaster (NDMA): **1078**
+
+### Germany
+- Emergency: 112 / Police 110
+- TelefonSeelsorge: **0800 111 0 111** (24/7)
+- Hilfetelefon Gewalt gegen Frauen: **08000 116 016**
+- Railway (DB Sicherheit): **0800 141 41 41**
+
+### France
+- Emergency: 112 / SAMU 15
+- Suicide prevention: **3114** (24/7)
+- Violences Femmes: **3919**
+- Enfance en danger: **119**
+- Cyber (Cybermalveillance): **0 805 805 817**
+- Railway (SNCF): **3117**
+
+### Japan
+- Emergency: 110 / 119
+- Inochi no Denwa: **0120-783-556**
+- TELL (English): **03-5774-0992**
+- Cyber Police: **#9110**
+- Disaster info: **bousai.go.jp**
+
+### Other countries
+- Netherlands: 112 · 113 Zelfmoordpreventie **0800-0113**
+- Spain: 112 · Suicide line **024** · Gender violence **016**
+- Italy: 112 · Telefono Amico **199 284 284** · **1522**
+- Brazil: 190/192 · CVV **188** · Defesa Civil **199**
+- Mexico: 911 · Línea de la Vida **800 911 2000**
+- South Korea: 112/119 · Suicide prevention **1393** · Cyber **118**
+- Singapore: 999/995 · SOS **1767** · ScamShield **1800 722 6688**
+- New Zealand: 111 · Need to Talk **1737**
+- Ireland: 112/999 · Pieta **1800 247 247**
+- Poland: 112 · Crisis **116 123** · Children **116 111**
+- UAE: 999 · HOPE **800 4444** · Cyber **901**
+- Saudi Arabia: 911 · Health **937** · Civil Defense **998**
+- South Africa: 10111 · SADAG **0800 456 789**
+- Türkiye: 112 · AÇEM **183** · Yeşilay **115**
+- Russia: 112 · Children's line **8-800-2000-122** · EMERCOM **112**
+- China: 110/120 · Beijing Crisis **010-8295-1332** · Rail **12306**
+
+## Pages
+
+- [Home — full global directory](https://www.helpio.online/)
+- [About Us](https://www.helpio.online/#/about)
+- [Contact Us](https://www.helpio.online/#/contact)
+- [Terms & Conditions](https://www.helpio.online/#/terms)
+- [Disclaimer](https://www.helpio.online/#/disclaimer)
+- [Privacy Policy](https://www.helpio.online/#/privacy)
+- [Cookie Policy](https://www.helpio.online/#/cookies)
+- [Site Map](https://www.helpio.online/#/sitemap)

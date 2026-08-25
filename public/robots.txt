@@ -1,0 +1,131 @@
+# =====================================================================
+#  robots.txt — Helpio
+#  Publisher: Cropzeq Technologies | Mr. Mukeshkumar Parmar
+#  Contact: yourtimesstart@gmail.com
+#  Domain: https://www.helpio.online
+#
+#  Configured for SEO, AEO, GEO and LLM-SEO:
+#   - All major search engines are welcome (SEO).
+#   - Answer-engine / generative-engine / LLM crawlers are ALLOWED (AEO / GEO / LLM-SEO)
+#     so AI assistants can read the site and cite it in their answers.
+# =====================================================================
+
+# ---------------------------------------------------------------------
+# 1) UNIVERSAL — everything public allowed; admin-style paths blocked
+# ---------------------------------------------------------------------
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin
+Disallow: /private
+
+# ---------------------------------------------------------------------
+# 2) SEARCH ENGINES — explicitly allowed (SEO)
+# ---------------------------------------------------------------------
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-News
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Bingbot-Image
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: AhrefsBot
+Allow: /
+
+User-agent: SemrushBot
+Allow: /
+
+User-agent: MJ12bot
+Allow: /
+
+# ---------------------------------------------------------------------
+# 3) ANSWER / GENERATIVE / LLM ENGINE CRAWLERS — ALLOWED (AEO / GEO / LLM-SEO)
+# ---------------------------------------------------------------------
+# Keep these allowed so ChatGPT, Gemini, Copilot, Perplexity, Claude,
+# and other AI assistants can reference Helpio in generated answers.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: AI2Bot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Diffbot
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: YandexImages
+Allow: /
+
+# ---------------------------------------------------------------------
+# POLITE CRAWLING & SITEMAP
+# ---------------------------------------------------------------------
+Crawl-delay: 2
+
+Sitemap: https://www.helpio.online/sitemap.xml
